@@ -2,20 +2,16 @@
 I'm a passionate full-stack developer with 5+ years of experience building scalable web applications and crafting seamless user experiences. I enjoy solving real-world problems with clean, efficient code.**
 
 ### 🛠 Tech Stack**
-### Languages:**
-JavaScript || Python || TypeScript || Javascript || HTML || CSS 
-
-### Frontend:**
-React.js || Tailwind || CSS || Redux || Ant Design
-
-### Backend:**
-Node.js || Express.js || Django || Flask || FastAPI
-
-### Databases:**
-MongoDB || sql
-
-### DevOps / Tools:**
-Docker || Git || GitHub || AWS || Postman 
+  ### Languages:
+  JavaScript || Python || TypeScript || Javascript || HTML || CSS 
+  ### Frontend:
+  React.js || Tailwind || CSS || Redux || Ant Design
+  ### Backend:
+  Node.js || Express.js || Django || Flask || FastAPI
+  ### Databases:
+  MongoDB || sql
+  ### DevOps / Tools:
+  Docker || Git || GitHub || AWS || Postman 
 
 ### 🚀 What I’m Working On
 - Learning System Design principles for building high-performance systems
