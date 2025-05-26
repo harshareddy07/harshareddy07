@@ -17,26 +17,22 @@ MongoDB || sql
 **DevOps / Tools:**
 Docker || Git || GitHub || AWS || Postman 
 
-**🚀 What I’m Working On**
-
-🔧 Learning System Design principles for building high-performance systems
-
-🌐 Exploring Three.js to create interactive 3D web experiences
-
-🧠 Experimenting with LLM agents and their real-world use cases
-
-⚙️ Building real-time, scalable applications focused on solving practical problems
+###🚀 What I’m Working On
+- Learning System Design principles for building high-performance systems
+- Exploring Three.js to create interactive 3D web experiences
+- Experimenting with LLM agents and their real-world use cases
+- Building real-time, scalable applications focused on solving practical problems
 
 ### 💡 Interests
 - 🧠 System design & backend scalability  
 - 🎨 Crafting pixel-perfect frontends  
 - 🎥 Filmmaking and storytelling  
 - 🥾 Hiking & photography
-- 
-**Fun Facts**
-💡 Passionate about system design, microservices, and distributed computing.
-⚡ Always exploring high-performance computing & scalable architectures.
-🚀 Love optimizing code efficiency and system reliability.
-🛠 Interested in reverse engineering and low-level system development.
-📚 Constantly learning new technologies, frameworks, and best practices.
-🎯 Enjoy contributing to open-source projects and tech communities.
+
+###Fun Facts
+- 💡 Passionate about system design, microservices, and distributed computing.
+- ⚡ Always exploring high-performance computing & scalable architectures.
+- 🚀 Love optimizing code efficiency and system reliability.
+- 🛠 Interested in reverse engineering and low-level system development.
+- 📚 Constantly learning new technologies, frameworks, and best practices.
+- 🎯 Enjoy contributing to open-source projects and tech communities.
