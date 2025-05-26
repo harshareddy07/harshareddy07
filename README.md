@@ -18,10 +18,13 @@ MongoDB || sql
 Docker || Git || GitHub || AWS || Postman 
 
 **🚀 What I’m Working On**
+
 🔧 Learning System Design principles for building high-performance systems
 
 🌐 Exploring Three.js to create interactive 3D web experiences
+
 🧠 Experimenting with LLM agents and their real-world use cases
+
 ⚙️ Building real-time, scalable applications focused on solving practical problems
 
 **💡 Interests**
