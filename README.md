@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Harsha
-I'm a passionate full-stack developer with 5+ years of experience building scalable web applications and crafting seamless user experiences. I enjoy solving real-world problems with clean, efficient code.**
+I'm a passionate full-stack developer with 5+ years of experience building scalable web applications and crafting seamless user experiences. I enjoy solving real-world problems with clean, efficient code.
 
 ### 🛠 Tech Stack
   - **Languages**: JavaScript || Python || TypeScript || Javascript || HTML || CSS 
