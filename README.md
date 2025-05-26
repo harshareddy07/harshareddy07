@@ -27,12 +27,12 @@ Docker || Git || GitHub || AWS || Postman
 
 ⚙️ Building real-time, scalable applications focused on solving practical problems
 
-**💡 Interests**
-🧠 System design & backend scalability
-🎨 Crafting pixel-perfect frontends
-🎥 Filmmaking and storytelling
-🥾 Hiking & photography
-
+### 💡 Interests
+- 🧠 System design & backend scalability  
+- 🎨 Crafting pixel-perfect frontends  
+- 🎥 Filmmaking and storytelling  
+- 🥾 Hiking & photography
+- 
 **Fun Facts**
 💡 Passionate about system design, microservices, and distributed computing.
 ⚡ Always exploring high-performance computing & scalable architectures.
