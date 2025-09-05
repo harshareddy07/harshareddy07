@@ -3,10 +3,10 @@ I'm a passionate full-stack developer with 5+ years of experience building scala
 
 ### 🛠 Tech Stack
   - **Languages**: JavaScript || Python || TypeScript || Javascript || HTML || CSS 
-  - **Frontend**: React.js || Tailwind || CSS || Redux || Ant Design
-  - **Backend**: Node.js || Express.js || Django || Flask || FastAPI
+  - **Frontend**: React.js || Tailwind || CSS || Redux || Ant Design 
+  - **Backend**: Node.js || Express.js || Django || Flask || FastAPI || Python
   - **Databases**:  MongoDB || sql
-  - **DevOps / Tools**: Docker || Git || GitHub || AWS || Postman 
+  - **DevOps / Tools**: Docker || Git || GitHub || AWS || Postman || Sourcetree || BitBucket || lambda 
 
 ### 🚀 What I’m Working On
 - Learning System Design principles for building high-performance systems
